@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cbout22/copilot-sync/releases/download/v0.0.1/cops_0.0.1_windows_amd64.zip",
+            "bin": [
+                "cops.exe"
+            ],
+            "hash": "5a5fe40c41f18bbdc69e6ef8279958b6f1f27290072735f29c48c05e25c4700c"
+        },
+        "arm64": {
+            "url": "https://github.com/cbout22/copilot-sync/releases/download/v0.0.1/cops_0.0.1_windows_arm64.zip",
+            "bin": [
+                "cops.exe"
+            ],
+            "hash": "2d192f53ed88bdbd5053eade14b3203df32a05f8e7f94af0d9615f565b78a315"
+        }
+    },
+    "homepage": "https://github.com/cbout22/copilot-sync",
+    "license": "MIT",
+    "description": "The deterministic package manager for your GitHub Copilot agent files"
+}
