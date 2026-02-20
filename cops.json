@@ -1,19 +1,19 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cbout22/copilot-sync/releases/download/v0.0.2/cops_0.0.2_windows_amd64.zip",
+            "url": "https://github.com/cbout22/copilot-sync/releases/download/v0.0.3/cops_0.0.3_windows_amd64.zip",
             "bin": [
                 "cops.exe"
             ],
-            "hash": "317080e9b815393e73470f19736d14331239546f952462339f7458fe16b4b9b8"
+            "hash": "ab2514d1c6258e56d30af0934024c5cd284b0676a7509a5d0c6becb8c090ee7e"
         },
         "arm64": {
-            "url": "https://github.com/cbout22/copilot-sync/releases/download/v0.0.2/cops_0.0.2_windows_arm64.zip",
+            "url": "https://github.com/cbout22/copilot-sync/releases/download/v0.0.3/cops_0.0.3_windows_arm64.zip",
             "bin": [
                 "cops.exe"
             ],
-            "hash": "370cf9520d738b8676bb862dd0f512c93856c7eb4595b692ad7b3b75c6bb7a01"
+            "hash": "f081eb631e31897c7fb4d2662465eadde0d1a8a97a7bf2e6d0a314191a10adc2"
         }
     },
     "homepage": "https://github.com/cbout22/copilot-sync",
